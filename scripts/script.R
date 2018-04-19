@@ -8,10 +8,12 @@ filteredCsv <- csv[csv$Typologie_client != "",]
 
 View(filteredCsv)
 
+# fictive date
 date <- as.Date("10/10/1996", format="%d/%m/%Y")
 now <- Sys.Date()
 age <- as.integer(difftime(now, date, unit="weeks"))/52.25
 age
+
 # Update csv data
 filteredCsv <- droplevels(filteredCsv)
 filteredCsv$Id <- NULL
