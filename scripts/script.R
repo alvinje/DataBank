@@ -1,3 +1,5 @@
+# Projet Data
+# Groupe Kévin - Jérémie - Rémi
 setwd("D:/logiciel/RStudio/save/DataBank/data")
 csv <- read.csv("banking_credit.csv", T, sep=';')
 is.data.frame(csv)
