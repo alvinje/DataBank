@@ -1,0 +1,1001 @@
+Id;Date_naissance;Sexe;Job;Emploi_actuel;Logement;Duree_Residence;Proprietaire;Telephone;Historique_credit;Nb_credit_existants;Compte_courant;Compte_cheque;Motif_credit;Montant_credit;Duree_credit_en_mois;Garants;Autres_acomptes;Typologie_client
+1;13/05/1951;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;< 0EUR;Compte cheque inconnu;Radio/Television;1169;6;0;;Bon client
+2;28/04/1996;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;5951;48;0;;Mauvais client
+3;14/06/1969;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Education;2096;12;0;;Bon client
+4;30/09/1973;Homme;Qualifie/fonctionnaire;4 a 7 ans;Logement gratuit;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;7882;42;1;;Bon client
+5;06/02/1965;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Car (new);4870;24;0;;Mauvais client
+6;13/04/1983;Homme;Non qualifie;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Education;9055;36;0;;Bon client
+7;16/12/1965;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;2835;24;0;;Bon client
+8;10/09/1983;Homme;Tres qualifie/independants;1-4 ans;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);6948;36;0;;Bon client
+9;09/09/1957;Homme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Radio/Television;3059;12;0;;Bon client
+10;24/01/1990;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);5234;30;0;Aucun;Mauvais client
+11;04/12/1993;Femme;Qualifie/fonctionnaire;< 1 an;Location;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);1295;12;0;;Mauvais client
+12;22/02/1994;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;4308;48;0;;Mauvais client
+13;04/06/1996;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1567;12;0;;Bon client
+14;09/07/1958;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);1199;24;0;;Mauvais client
+15;04/11/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1403;15;0;;Bon client
+16;13/08/1986;Femme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Radio/Television;1282;24;0;;Mauvais client
+17;12/09/1965;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;2424;24;0;;Bon client
+18;29/06/1993;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;3;< 0EUR;Compte cheque inconnu;Affaires;8072;30;0;;Bon client
+19;23/06/1974;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);12579;24;0;;Mauvais client
+20;03/03/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;3430;24;0;;Bon client
+21;24/03/1970;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Car (new);2134;9;0;;Bon client
+22;02/09/1974;Homme;Qualifie/fonctionnaire;1-4 ans;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Radio/Television;2647;6;0;;Bon client
+23;04/11/1970;Homme;Non qualifie;< 1 an;Location;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2241;10;0;;Bon client
+24;02/04/1974;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;100-500 EUR;Car (used);1804;12;0;Aucun;Bon client
+25;28/02/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;2069;10;0;;Bon client
+26;29/08/1982;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1374;6;0;;Bon client
+27;28/11/1979;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;426;6;0;;Bon client
+28;20/06/1976;Femme;Qualifie/fonctionnaire;1-4 ans;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;2;>=200 EUR;>=1000 EUR;Radio/Television;409;12;0;;Bon client
+29;19/03/1984;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2415;7;1;;Bon client
+30;05/08/1955;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Affaires;6836;60;0;;Mauvais client
+31;02/04/1982;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Affaires;1913;18;0;;Bon client
+32;08/08/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;4020;24;0;;Bon client
+33;12/09/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Car (new);5866;18;0;;Bon client
+34;15/03/1961;Homme;Non qualifie;>=7 ans;Location;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Affaires;1264;12;0;;Bon client
+35;18/10/1985;Femme;Tres qualifie/independants;< 1 an;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;1474;12;0;;Bon client
+36;18/10/1993;Homme;Non qualifie;< 1 an;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Radio/Television;4746;45;0;;Mauvais client
+37;14/06/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;3;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Education;6110;48;0;;Bon client
+38;21/02/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;2100;18;1;;Mauvais client
+39;11/07/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Appareils menagers;1225;10;0;;Bon client
+40;20/04/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;458;9;0;Aucun;Bon client
+41;15/05/1988;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;2333;30;0;;Bon client
+42;15/11/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Radio/Television;1158;12;0;;Bon client
+43;15/05/1974;Homme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;1;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Reparation;6204;18;0;;Bon client
+44;21/07/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;< 0EUR;100-500 EUR;Car (used);6187;30;0;;Bon client
+45;24/06/1960;Femme;Non qualifie;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);6143;48;0;;Mauvais client
+46;31/03/1983;Femme;Tres qualifie/independants;< 1 an;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1393;11;0;;Bon client
+47;29/09/1979;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;2299;36;0;;Bon client
+48;04/08/1995;Femme;Sans emploi;Sans emploi;Location;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Car (used);1352;6;0;;Bon client
+49;05/03/1979;Homme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);7228;11;0;;Bon client
+50;31/07/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;2073;12;1;;Bon client
+51;16/08/1989;Homme;Non qualifie;< 1 an;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;2333;24;0;;Bon client
+52;12/07/1988;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Car (used);5965;27;0;;Bon client
+53;22/02/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1262;12;0;;Bon client
+54;21/08/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);3378;18;0;;Bon client
+55;27/07/1961;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Car (new);2225;36;0;;Mauvais client
+56;25/09/1992;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);783;6;1;;Bon client
+57;26/04/1966;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;6468;12;0;;Mauvais client
+58;25/06/1987;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;9566;36;0;;Bon client
+59;26/11/1995;Femme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Car (new);1961;18;0;;Bon client
+60;09/08/1995;Femme;Non qualifie;< 1 an;Location;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;6229;36;1;;Mauvais client
+61;26/10/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;1391;9;0;;Bon client
+62;13/10/1968;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;Compte cheque inconnu;Radio/Television;1537;15;1;;Bon client
+63;25/06/1957;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;1953;36;0;;Mauvais client
+64;27/06/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;14421;48;0;;Mauvais client
+65;07/08/1992;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;3181;24;0;;Bon client
+66;28/05/1970;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;4;Pas de compte courant;Compte cheque inconnu;Reparation;5190;27;0;;Bon client
+67;24/07/1989;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;2171;12;0;;Bon client
+68;08/10/1996;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Car (new);1007;12;0;;Bon client
+69;26/10/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Education;1819;36;0;Magasins;Mauvais client
+70;01/04/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;2394;36;0;;Bon client
+71;30/11/1988;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);8133;36;0;;Bon client
+72;24/05/1972;Homme;Non qualifie;>=7 ans;Location;2;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;730;7;0;;Bon client
+73;15/04/1967;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Autres;1164;8;0;;Bon client
+74;20/12/1977;Femme;Non qualifie;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Affaires;5954;42;0;;Bon client
+75;15/04/1978;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Education;1977;36;0;;Mauvais client
+76;30/11/1952;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);1526;12;0;;Bon client
+77;02/02/1984;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;3965;42;0;;Mauvais client
+78;17/04/1967;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Accord de construction;0;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Radio/Television;4771;11;0;;Bon client
+79;04/02/1979;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);9436;54;0;;Bon client
+80;29/07/1996;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;3832;30;0;;Bon client
+81;19/12/1974;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Radio/Television;5943;24;0;;Mauvais client
+82;14/05/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;1213;15;0;;Bon client
+83;26/03/1994;Femme;Non qualifie;1-4 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Affaires;1568;18;0;;Bon client
+84;06/04/1960;Femme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Autres;1755;24;1;;Bon client
+85;22/09/1966;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2315;10;0;;Bon client
+86;06/10/1989;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Affaires;1412;12;1;;Bon client
+87;02/08/1991;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Mobilier /equipements;1295;18;0;;Bon client
+88;28/07/1971;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Education;12612;36;0;;Mauvais client
+89;11/06/1988;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Car (new);2249;18;0;;Bon client
+90;28/07/1990;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Reparation;1108;12;0;;Mauvais client
+91;25/03/1962;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Radio/Television;618;12;0;;Bon client
+92;26/08/1964;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Car (used);1409;12;0;;Bon client
+93;14/05/1985;Femme;Non qualifie;>=7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Radio/Television;797;12;0;;Mauvais client
+94;10/07/1998;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Mobilier /equipements;3617;24;1;;Bon client
+95;08/06/1964;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Car (new);1318;12;0;;Bon client
+96;25/02/1960;Homme;Qualifie/fonctionnaire;< 1 an;Location;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;15945;54;0;;Mauvais client
+97;09/09/1957;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Education;2012;12;0;;Bon client
+98;17/07/1984;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Affaires;2622;18;0;Aucun;Bon client
+99;09/09/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Radio/Television;2337;36;0;Aucun;Bon client
+100;25/05/1982;Homme;Tres qualifie/independants;4 a 7 ans;Location;4;Accord de construction;1;Au moins un retard de paiement;2;0-200 EUR;Compte cheque inconnu;Car (used);7057;20;0;;Bon client
+101;24/06/1977;Homme;Non qualifie;>=7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (new);1469;24;0;;Bon client
+102;08/08/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2323;36;0;;Bon client
+103;23/08/1994;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Au moins un retard de paiement;1;Pas de compte courant;< 100 EUR;Radio/Television;932;6;0;;Bon client
+104;02/02/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;1919;9;0;;Bon client
+105;26/08/1992;Homme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);2445;12;0;;Bon client
+106;10/12/1979;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Autres;11938;24;1;;Mauvais client
+107;02/08/1979;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Car (new);6458;18;0;;Mauvais client
+108;26/06/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);6078;12;0;;Bon client
+109;18/07/1988;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Mobilier /equipements;7721;24;0;;Bon client
+110;07/12/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Affaires;1410;14;0;;Bon client
+111;04/07/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Au moins un retard de paiement;2;0-200 EUR;100-500 EUR;Affaires;1449;6;0;;Bon client
+112;04/04/1995;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Education;392;15;0;Aucun;Bon client
+113;16/02/1990;Homme;Non qualifie;4 a 7 ans;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);6260;18;0;;Bon client
+114;14/07/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);7855;36;0;;Mauvais client
+115;16/09/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Radio/Television;1680;12;0;;Bon client
+116;11/05/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;1;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Radio/Television;3578;48;0;;Bon client
+117;13/11/1988;Femme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Radio/Television;7174;42;0;;Mauvais client
+118;27/05/1991;Femme;Qualifie/fonctionnaire;< 1 an;Location;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;Compte cheque inconnu;Mobilier /equipements;2132;10;1;;Bon client
+119;17/10/1995;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;< 0EUR;500-1000 EUR;Mobilier /equipements;4281;33;0;;Mauvais client
+120;21/04/1982;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;500-1000 EUR;Car (new);2366;12;0;;Bon client
+121;24/09/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Radio/Television;1835;21;0;;Mauvais client
+122;19/05/1977;Femme;Tres qualifie/independants;>=7 ans;Location;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (used);3868;24;0;;Bon client
+123;06/03/1994;Homme;Non qualifie;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1768;12;0;;Bon client
+124;14/05/1955;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;< 100 EUR;Car (new);781;10;0;;Bon client
+125;06/01/1991;Femme;Qualifie/fonctionnaire;< 1 an;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;1924;18;0;;Mauvais client
+126;22/03/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2121;12;0;;Bon client
+127;17/10/1978;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;701;12;0;;Bon client
+128;15/02/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Reparation;639;12;0;;Mauvais client
+129;25/02/1984;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (used);1860;12;0;;Bon client
+130;18/03/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);3499;12;1;;Mauvais client
+131;12/08/1994;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);8487;48;0;;Bon client
+132;30/04/1989;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;1;Au moins un retard de paiement;1;< 0EUR;< 100 EUR;Education;6887;36;0;;Mauvais client
+133;14/11/1991;Homme;Non qualifie;< 1 an;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2708;15;0;;Bon client
+134;15/03/1971;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;1984;18;0;;Bon client
+135;01/03/1997;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;10144;60;0;;Bon client
+136;04/01/1980;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;1240;12;0;;Bon client
+137;12/06/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;>=1000 EUR;Car (used);8613;27;0;;Bon client
+138;25/08/1952;Homme;Non qualifie;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Radio/Television;766;12;0;;Mauvais client
+139;25/10/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);3;0-200 EUR;Compte cheque inconnu;Radio/Television;2728;15;1;Banque;Bon client
+140;02/03/1974;Femme;Non qualifie;1-4 ans;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;1881;12;0;;Bon client
+141;13/05/1991;Homme;Sans emploi;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;>=1000 EUR;Car (new);709;6;0;;Bon client
+142;13/04/1988;Femme;Tres qualifie/independants;< 1 an;Proprietaire;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;4795;36;0;;Bon client
+143;11/11/1991;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;3416;27;0;;Bon client
+144;20/02/1996;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2462;18;0;;Mauvais client
+145;25/10/1995;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Mobilier /equipements;2288;21;0;;Bon client
+146;08/08/1988;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Affaires;3566;48;0;;Bon client
+147;25/02/1979;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);860;6;0;;Bon client
+148;26/01/1967;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Car (new);682;12;0;;Bon client
+149;30/03/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;5371;36;1;;Bon client
+150;06/11/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Radio/Television;1582;18;0;;Bon client
+151;19/10/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;1346;6;0;;Bon client
+152;10/02/1980;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1924;10;0;;Bon client
+153;10/08/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;5848;36;0;;Bon client
+154;02/08/1989;Femme;Qualifie/fonctionnaire;>=7 ans;Location;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;>=1000 EUR;Car (used);7758;24;0;;Bon client
+155;09/05/1982;Homme;Tres qualifie/independants;4 a 7 ans;Location;4;Voiture ou autre;1;Au moins un retard de paiement;1;0-200 EUR;100-500 EUR;Affaires;6967;24;0;Aucun;Bon client
+156;22/08/1998;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1282;12;0;;Mauvais client
+157;07/06/1970;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;100-500 EUR;Reparation;1288;9;1;;Bon client
+158;18/06/1973;Homme;Non qualifie;>=7 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Autres;339;12;0;;Bon client
+159;01/02/1980;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Car (new);3512;24;0;;Bon client
+160;24/06/1984;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;1898;6;0;Aucun;Bon client
+161;19/04/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;100-500 EUR;Radio/Television;2872;24;0;;Bon client
+162;03/04/1988;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1055;18;0;;Bon client
+163;22/09/1982;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;2;Pas de compte courant;500-1000 EUR;Appareils menagers;1262;15;0;;Bon client
+164;11/04/1948;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);7308;10;0;;Bon client
+165;02/03/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);909;36;0;Aucun;Bon client
+166;02/05/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;2978;6;0;;Bon client
+167;24/12/1985;Femme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1131;18;0;;Mauvais client
+168;28/07/1998;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Mobilier /equipements;1577;11;0;;Bon client
+169;11/03/1993;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;3972;24;0;;Bon client
+170;23/11/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Affaires;1935;24;0;;Mauvais client
+171;02/03/1985;Homme;Qualifie/fonctionnaire;>=7 ans;Location;3;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);950;15;0;Aucun;Mauvais client
+172;27/04/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;763;12;0;Aucun;Bon client
+173;28/07/1984;Femme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Accord de construction;1;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Mobilier /equipements;2064;24;0;;Mauvais client
+174;13/08/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1414;8;1;;Bon client
+175;07/11/1992;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Education;3414;21;0;;Mauvais client
+176;14/01/1965;Femme;Tres qualifie/independants;Sans emploi;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);7485;30;0;;Mauvais client
+177;14/02/1976;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2577;12;0;;Bon client
+178;27/04/1966;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;< 0EUR;500-1000 EUR;Radio/Television;338;6;0;Banque;Bon client
+179;26/05/1987;Homme;Tres qualifie/independants;4 a 7 ans;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Radio/Television;1963;12;0;;Bon client
+180;23/09/1953;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);571;21;0;;Bon client
+181;16/07/1990;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Affaires;9572;36;0;;Mauvais client
+182;24/09/1988;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Bien immobilier;1;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Affaires;4455;36;0;;Mauvais client
+183;13/05/1978;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;2;< 0EUR;Compte cheque inconnu;Car (new);1647;21;0;;Mauvais client
+184;03/05/1968;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;>=1000 EUR;Mobilier /equipements;3777;24;0;;Bon client
+185;06/02/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Car (new);884;18;0;;Mauvais client
+186;11/09/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1360;15;0;;Bon client
+187;27/05/1944;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);5129;9;0;;Mauvais client
+188;04/12/1950;Homme;Sans emploi;Sans emploi;Logement gratuit;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);3;0-200 EUR;< 100 EUR;Car (new);1175;16;0;;Bon client
+189;12/03/1998;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Radio/Television;674;12;0;;Mauvais client
+190;03/07/1985;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Mobilier /equipements;3244;18;0;;Bon client
+191;17/09/1964;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;3;Pas de compte courant;>=1000 EUR;Affaires;4591;24;0;;Mauvais client
+192;25/07/1984;Homme;Non qualifie;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Affaires;3844;48;0;;Mauvais client
+193;05/09/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;3915;27;0;;Mauvais client
+194;13/03/1989;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;2108;6;0;;Bon client
+195;24/03/1997;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Radio/Television;3031;45;1;;Mauvais client
+196;04/03/1984;Femme;Tres qualifie/independants;>=7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Education;1501;9;0;;Mauvais client
+197;20/05/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1382;6;0;Aucun;Bon client
+198;20/06/1991;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;4;0-200 EUR;100-500 EUR;Mobilier /equipements;951;12;0;;Mauvais client
+199;03/01/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (used);2760;24;0;;Bon client
+200;10/08/1978;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;3;Inconnu/Pas de propriete;1;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Mobilier /equipements;4297;18;0;;Mauvais client
+201;06/03/1966;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;500-1000 EUR;Education;936;9;0;;Bon client
+202;12/07/1991;Homme;Non qualifie;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1168;12;0;;Bon client
+203;15/11/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Affaires;5117;27;0;;Bon client
+204;13/12/1997;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Autres;902;12;0;;Mauvais client
+205;16/04/1980;Homme;Non qualifie;>=7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1495;12;0;Banque;Bon client
+206;16/10/1980;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Car (used);10623;30;0;;Bon client
+207;26/11/1975;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Mobilier /equipements;1935;12;0;;Bon client
+208;22/03/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Appareils menagers;1424;12;0;;Bon client
+209;19/06/1997;Homme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;6568;24;0;;Bon client
+210;12/04/1963;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Car (used);1413;12;0;;Bon client
+211;13/08/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;3074;9;0;;Bon client
+212;30/01/1973;Femme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;3835;36;0;;Bon client
+213;10/11/1968;Homme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Affaires;5293;27;0;;Mauvais client
+214;23/03/1952;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Bien immobilier;1;Au moins un retard de paiement;1;>=200 EUR;< 100 EUR;Affaires;1908;30;0;;Mauvais client
+215;27/12/1967;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Radio/Television;3342;36;0;;Bon client
+216;08/11/1979;Femme;Non qualifie;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;Compte cheque inconnu;Autres;932;6;0;;Bon client
+217;07/11/1987;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;3104;18;0;Banque;Bon client
+218;27/04/1995;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;3913;36;0;;Bon client
+219;05/02/1994;Homme;Non qualifie;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3021;24;0;;Bon client
+220;11/04/1954;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1364;10;0;;Bon client
+221;15/12/1992;Homme;Non qualifie;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;625;12;1;;Bon client
+222;24/10/1995;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Education;1200;12;0;;Bon client
+223;25/11/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Radio/Television;707;12;0;;Bon client
+224;19/10/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Au moins un retard de paiement;2;Pas de compte courant;Compte cheque inconnu;Affaires;2978;24;0;;Bon client
+225;04/10/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);4657;15;0;;Bon client
+226;15/03/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Reparation;2613;36;0;;Bon client
+227;11/02/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;2;0-200 EUR;>=1000 EUR;Radio/Television;10961;48;1;;Mauvais client
+228;19/06/1965;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;7865;12;0;;Mauvais client
+229;09/03/1996;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1478;9;0;;Mauvais client
+230;25/05/1996;Homme;Qualifie/fonctionnaire;< 1 an;Logement gratuit;1;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3149;24;0;Aucun;Bon client
+231;14/05/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;4210;36;0;;Mauvais client
+232;26/07/1967;Homme;Non qualifie;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);2507;9;0;;Bon client
+233;08/01/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;2141;12;0;;Bon client
+234;03/03/1993;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;866;18;1;;Bon client
+235;14/08/1976;Homme;Non qualifie;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Radio/Television;1544;4;0;;Bon client
+236;25/06/1988;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1823;24;0;;Mauvais client
+237;14/02/1995;Homme;Sans emploi;Sans emploi;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);14555;6;0;;Mauvais client
+238;26/06/1957;Homme;Non qualifie;>=7 ans;Location;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Affaires;2767;21;0;;Mauvais client
+239;22/01/1983;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1291;12;0;;Bon client
+240;19/04/1979;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2522;30;1;;Bon client
+241;20/07/1989;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);915;24;0;;Mauvais client
+242;05/11/1967;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1595;6;0;;Bon client
+243;21/12/1994;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (used);4605;48;0;;Mauvais client
+244;01/06/1991;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Affaires;1185;12;0;;Bon client
+245;13/11/1983;Femme;Non qualifie;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Autres;3447;12;0;;Bon client
+246;20/08/1993;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;1258;24;0;Aucun;Bon client
+247;17/10/1966;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Radio/Television;717;12;0;;Bon client
+248;05/06/1983;Homme;Qualifie/fonctionnaire;1-4 ans;Location;1;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (new);1204;6;0;;Bon client
+249;01/05/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;1925;24;0;;Bon client
+250;12/07/1996;Femme;Qualifie/fonctionnaire;Sans emploi;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;433;18;1;;Mauvais client
+251;18/09/1979;Femme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;< 0EUR;>=1000 EUR;Car (new);666;6;0;;Bon client
+252;21/09/1972;Femme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;2251;12;0;;Bon client
+253;11/09/1994;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);2150;30;1;;Mauvais client
+254;22/09/1983;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;0;Au moins un retard de paiement;2;Pas de compte courant;100-500 EUR;Mobilier /equipements;4151;24;0;;Bon client
+255;23/10/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;2030;9;0;;Bon client
+256;15/01/1991;Homme;Non qualifie;1-4 ans;Proprietaire;1;Bien immobilier;0;Au moins un retard de paiement;1;0-200 EUR;Compte cheque inconnu;Radio/Television;7418;60;0;;Bon client
+257;13/06/1983;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;2684;24;0;;Bon client
+258;29/01/1989;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;1;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2149;12;0;Aucun;Mauvais client
+259;28/09/1995;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (used);3812;15;0;;Bon client
+260;20/04/1961;Femme;Non qualifie;Sans emploi;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;Pas de compte courant;100-500 EUR;Radio/Television;1154;11;0;;Bon client
+261;30/04/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1657;12;0;;Bon client
+262;23/03/1963;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1603;24;0;;Bon client
+263;14/10/1982;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Car (new);5302;18;0;;Bon client
+264;01/08/1961;Femme;Non qualifie;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Education;2748;12;0;;Bon client
+265;23/10/1986;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1231;10;0;;Bon client
+266;12/05/1981;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;802;15;0;;Mauvais client
+267;25/09/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Affaires;6304;36;0;;Bon client
+268;08/02/1980;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1533;24;0;Magasins;Bon client
+269;20/05/1973;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);8978;14;0;;Mauvais client
+270;11/06/1993;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Radio/Television;999;24;0;;Bon client
+271;20/07/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);2662;18;0;;Bon client
+272;24/01/1981;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;1402;12;0;;Bon client
+273;24/03/1982;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);12169;48;1;;Bon client
+274;27/07/1990;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Radio/Television;3060;48;0;;Mauvais client
+275;27/12/1984;Homme;Non qualifie;< 1 an;Proprietaire;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Reparation;11998;30;0;;Mauvais client
+276;31/01/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;2697;9;0;;Bon client
+277;12/12/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;2404;18;0;;Bon client
+278;13/06/1969;Homme;Non qualifie;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Mobilier /equipements;1262;12;0;;Bon client
+279;15/09/1986;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;4611;6;0;;Mauvais client
+280;10/02/1989;Homme;Tres qualifie/independants;1-4 ans;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;1901;24;0;;Bon client
+281;18/08/1995;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Car (used);3368;15;0;;Bon client
+282;20/03/1968;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1574;12;0;;Bon client
+283;12/02/1969;Homme;Non qualifie;4 a 7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;Compte cheque inconnu;Radio/Television;1445;18;0;;Bon client
+284;05/10/1955;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;1520;15;0;;Bon client
+285;14/10/1981;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;100-500 EUR;Car (new);3878;24;0;;Bon client
+286;10/03/1983;Femme;Non qualifie;< 1 an;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);10722;47;0;;Bon client
+287;06/04/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);4788;48;0;;Bon client
+288;18/09/1987;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Au moins un retard de paiement;1;0-200 EUR;100-500 EUR;Autres;7582;48;0;;Bon client
+289;18/06/1969;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Radio/Television;1092;12;1;;Bon client
+290;28/03/1970;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;0;Au moins un retard de paiement;1;< 0EUR;< 100 EUR;Radio/Television;1024;24;0;;Mauvais client
+291;14/04/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;1076;12;0;;Bon client
+292;08/03/1990;Homme;Tres qualifie/independants;< 1 an;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);9398;36;0;;Mauvais client
+293;05/05/1974;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);6419;24;0;;Bon client
+294;24/06/1962;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);1;>=200 EUR;< 100 EUR;Car (used);4796;42;0;;Bon client
+295;11/04/1972;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Affaires;7629;48;0;;Bon client
+296;26/04/1992;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;9960;48;0;;Mauvais client
+297;22/03/1998;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);4675;12;0;Magasins;Bon client
+298;25/10/1973;Homme;Non qualifie;>=7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);1287;10;1;;Bon client
+299;21/11/1975;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;2515;18;0;;Bon client
+300;03/05/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;>=1000 EUR;Mobilier /equipements;2745;21;0;;Bon client
+301;05/07/1964;Femme;Sans emploi;Sans emploi;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);672;6;0;;Bon client
+302;29/03/1976;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;3804;36;0;;Mauvais client
+303;23/02/1981;Homme;Non qualifie;4 a 7 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Car (new);1344;24;0;;Mauvais client
+304;29/06/1969;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);1038;10;1;;Bon client
+305;21/06/1974;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;500-1000 EUR;Car (new);10127;48;0;Banque;Mauvais client
+306;04/08/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Mobilier /equipements;1543;6;0;;Bon client
+307;27/07/1994;Femme;Non qualifie;4 a 7 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);4811;30;0;;Bon client
+308;04/02/1985;Homme;Non qualifie;< 1 an;Proprietaire;3;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Radio/Television;727;12;0;;Mauvais client
+309;06/11/1994;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;1237;8;0;;Mauvais client
+310;09/02/1996;Homme;Non qualifie;1-4 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);276;9;0;;Bon client
+311;02/03/1978;Homme;Sans emploi;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Autres;5381;48;0;;Bon client
+312;22/12/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Mobilier /equipements;5511;24;0;Magasins;Bon client
+313;16/07/1992;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;3749;24;0;;Bon client
+314;29/08/1993;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);685;12;0;;Mauvais client
+315;02/09/1989;Homme;Non qualifie;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;Compte cheque inconnu;Car (new);1494;4;0;Magasins;Bon client
+316;08/03/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2746;36;0;Magasins;Mauvais client
+317;06/04/1980;Homme;Non qualifie;1-4 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;708;12;1;;Bon client
+318;04/06/1970;Femme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;4351;24;0;;Bon client
+319;17/07/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Education;701;12;0;;Bon client
+320;26/02/1991;Femme;Non qualifie;>=7 ans;Proprietaire;4;Accord de construction;0;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Mobilier /equipements;3643;15;0;;Bon client
+321;15/04/1990;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);4249;30;0;;Mauvais client
+322;30/11/1986;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1938;24;0;;Mauvais client
+323;22/07/1984;Homme;Tres qualifie/independants;4 a 7 ans;Logement gratuit;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);2910;24;0;;Bon client
+324;22/03/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;>=1000 EUR;Mobilier /equipements;2659;18;0;;Bon client
+325;07/04/1982;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1028;18;0;;Bon client
+326;12/05/1979;Homme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);3398;8;0;;Bon client
+327;12/04/1969;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Accord de construction;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;5801;12;0;;Bon client
+328;14/03/1984;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Car (new);1525;24;0;;Bon client
+329;09/02/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;4473;36;0;;Bon client
+330;26/03/1990;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1068;6;0;;Bon client
+331;20/08/1943;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);6615;24;0;;Bon client
+332;17/08/1988;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Education;1864;18;0;;Mauvais client
+333;25/08/1994;Femme;Tres qualifie/independants;< 1 an;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);7408;60;0;;Mauvais client
+334;12/03/1994;Femme;Non qualifie;1-4 ans;Location;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Car (used);11590;48;0;;Mauvais client
+335;11/04/1995;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Mobilier /equipements;4110;24;0;Banque;Mauvais client
+336;18/04/1974;Homme;Tres qualifie/independants;1-4 ans;Location;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Mobilier /equipements;3384;6;0;;Mauvais client
+337;25/12/1995;Femme;Non qualifie;< 1 an;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2101;13;1;;Bon client
+338;02/08/1994;Femme;Qualifie/fonctionnaire;1-4 ans;Location;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Appareils menagers;1275;15;0;;Mauvais client
+339;10/11/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;4169;24;0;;Bon client
+340;07/05/1987;Homme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;1521;10;0;;Bon client
+341;11/02/1994;Femme;Qualifie/fonctionnaire;< 1 an;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Education;5743;24;0;;Bon client
+342;08/09/1992;Femme;Non qualifie;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3599;21;0;;Bon client
+343;13/11/1993;Homme;Qualifie/fonctionnaire;< 1 an;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Radio/Television;3213;18;0;;Bon client
+344;09/06/1985;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;4439;18;1;;Bon client
+345;26/05/1981;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Car (new);3949;10;1;;Bon client
+346;04/06/1975;Femme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Radio/Television;1459;15;0;;Bon client
+347;03/02/1995;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Radio/Television;882;13;1;;Bon client
+348;12/02/1995;Femme;Sans emploi;Sans emploi;Location;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Radio/Television;3758;24;0;Banque;Bon client
+349;14/06/1984;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;100-500 EUR;Affaires;1743;6;0;Banque;Bon client
+350;13/02/1986;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;3;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;>=1000 EUR;Education;1136;9;0;Banque;Mauvais client
+351;28/10/1995;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Appareils menagers;1236;9;0;;Bon client
+352;30/09/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;959;9;0;;Mauvais client
+353;18/07/1980;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Car (used);3229;18;0;;Bon client
+354;13/11/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;1;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Radio/Television;6199;12;0;;Mauvais client
+355;16/07/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Education;727;10;0;;Bon client
+356;31/07/1995;Homme;Non qualifie;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);1246;24;0;Magasins;Mauvais client
+357;28/09/1969;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Radio/Television;2331;12;1;;Bon client
+358;26/07/1992;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Radio/Television;4463;36;0;;Mauvais client
+359;12/06/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;776;12;0;;Bon client
+360;07/07/1995;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2406;30;0;;Mauvais client
+361;22/10/1957;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Education;1239;18;0;;Bon client
+362;23/06/1981;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;Compte cheque inconnu;Radio/Television;3399;12;0;Aucun;Bon client
+363;01/05/1982;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;>=200 EUR;< 100 EUR;Car (new);2247;12;0;;Bon client
+364;13/03/1997;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1766;6;0;;Bon client
+365;12/10/1993;Homme;Sans emploi;Sans emploi;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2473;18;0;;Mauvais client
+366;09/07/1982;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;1542;12;0;;Bon client
+367;18/03/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (used);3850;18;0;;Bon client
+368;14/04/1996;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3650;18;0;;Bon client
+369;20/11/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3446;36;0;;Mauvais client
+370;13/09/1978;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;3001;18;0;;Bon client
+371;03/04/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);3079;36;0;;Bon client
+372;08/10/1985;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;6070;18;0;;Bon client
+373;03/05/1995;Femme;Qualifie/fonctionnaire;< 1 an;Location;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2146;10;0;Aucun;Bon client
+374;13/02/1955;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Car (new);13756;60;0;;Bon client
+375;23/07/1958;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Autres;14782;60;0;;Mauvais client
+376;17/11/1981;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;7685;48;1;;Mauvais client
+377;04/09/1984;Homme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;3;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Radio/Television;2320;18;0;;Bon client
+378;14/12/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Au moins un retard de paiement;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;846;7;0;;Bon client
+379;20/02/1961;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);14318;36;0;;Mauvais client
+380;10/11/1966;Femme;Non qualifie;1-4 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Car (new);362;6;0;;Bon client
+381;17/11/1979;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Mobilier /equipements;2212;20;0;;Bon client
+382;17/01/1980;Femme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);12976;18;0;;Mauvais client
+383;02/05/1993;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);1283;22;0;;Bon client
+384;07/10/1992;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Car (new);1330;12;0;;Bon client
+385;26/01/1992;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;2;Pas de compte courant;100-500 EUR;Affaires;4272;30;0;;Bon client
+386;11/10/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;2238;18;0;;Bon client
+387;25/08/1997;Femme;Qualifie/fonctionnaire;< 1 an;Location;2;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;1126;18;0;;Bon client
+388;24/06/1978;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Mobilier /equipements;7374;18;0;;Bon client
+389;17/11/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;500-1000 EUR;Affaires;2326;15;0;;Bon client
+390;02/10/1991;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Affaires;1449;9;0;;Bon client
+391;23/07/1988;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1820;18;0;;Bon client
+392;23/08/1999;Femme;Non qualifie;< 1 an;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Mobilier /equipements;983;12;0;;Bon client
+393;23/05/1979;Homme;Tres qualifie/independants;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);3249;36;0;;Bon client
+394;26/10/1987;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Radio/Television;1957;6;0;Aucun;Bon client
+395;08/09/1987;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;3;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Mobilier /equipements;2406;9;0;Aucun;Bon client
+396;18/04/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;3;Inconnu/Pas de propriete;1;Au moins un retard de paiement;1;0-200 EUR;100-500 EUR;Education;11760;39;0;;Bon client
+397;04/08/1963;Femme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2578;12;0;;Bon client
+398;14/01/1972;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;2348;36;0;Aucun;Bon client
+399;23/07/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Location;1;Bien immobilier;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Car (new);1223;12;0;Aucun;Mauvais client
+400;29/07/1975;Femme;Non qualifie;1-4 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Radio/Television;1516;24;0;;Bon client
+401;15/01/1979;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1473;18;0;;Bon client
+402;31/08/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;Compte cheque inconnu;Affaires;1887;18;0;;Bon client
+403;24/04/1991;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Affaires;8648;24;0;;Mauvais client
+404;30/06/1991;Homme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (new);802;14;0;;Bon client
+405;09/07/1975;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Au moins un retard de paiement;1;0-200 EUR;Compte cheque inconnu;Car (new);2899;18;0;;Bon client
+406;18/12/1996;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2039;24;0;;Mauvais client
+407;22/09/1975;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);2197;24;0;;Bon client
+408;09/11/1991;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1053;15;0;;Bon client
+409;16/11/1992;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;3235;24;0;;Bon client
+410;09/11/1990;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);3;>=200 EUR;500-1000 EUR;Car (new);939;12;0;;Mauvais client
+411;27/06/1998;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1967;24;0;;Bon client
+412;08/12/1983;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (used);7253;33;0;Aucun;Bon client
+413;15/12/1976;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Affaires;2292;12;0;;Mauvais client
+414;26/04/1978;Homme;Non qualifie;1-4 ans;Location;2;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);1597;10;0;;Bon client
+415;11/09/1983;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);1381;24;0;;Mauvais client
+416;02/08/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (used);5842;36;0;;Bon client
+417;18/07/1985;Homme;Non qualifie;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);2579;12;0;;Mauvais client
+418;18/07/1995;Femme;Qualifie/fonctionnaire;1-4 ans;Location;2;Voiture ou autre;1;Au moins un retard de paiement;2;< 0EUR;Compte cheque inconnu;Education;8471;18;0;;Bon client
+419;03/03/1987;Femme;Tres qualifie/independants;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);2782;21;0;;Bon client
+420;12/12/1985;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);1042;18;0;;Mauvais client
+421;18/06/1998;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Car (new);3186;15;0;;Bon client
+422;22/08/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (used);2028;12;0;;Bon client
+423;25/03/1971;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);958;12;0;;Bon client
+424;05/06/1984;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;100-500 EUR;Mobilier /equipements;1591;21;0;;Bon client
+425;16/04/1993;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;2762;12;0;;Mauvais client
+426;20/10/1997;Homme;Qualifie/fonctionnaire;1-4 ans;Location;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);2779;18;0;;Bon client
+427;22/05/1989;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;2743;28;0;;Bon client
+428;11/09/1972;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Radio/Television;1149;18;0;;Bon client
+429;20/05/1998;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1313;9;0;;Bon client
+430;28/02/1963;Femme;Sans emploi;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Reparation;1190;18;0;;Mauvais client
+431;20/01/1944;Homme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;3448;5;0;;Bon client
+432;02/06/1989;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Autres;11328;24;1;;Mauvais client
+433;17/09/1982;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Mobilier /equipements;1872;6;0;;Bon client
+434;17/07/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Reparation;2058;24;0;;Bon client
+435;02/11/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2136;9;0;;Bon client
+436;27/03/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;1484;12;0;;Mauvais client
+437;04/12/1995;Homme;Non qualifie;4 a 7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Reparation;660;6;0;;Bon client
+438;29/06/1981;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Car (new);1287;24;0;;Bon client
+439;25/06/1953;Homme;Sans emploi;Sans emploi;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Reparation;3394;42;1;;Bon client
+440;02/12/1992;Femme;Sans emploi;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Affaires;609;12;0;Aucun;Mauvais client
+441;23/08/1979;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1884;12;0;;Bon client
+442;05/06/1988;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1620;12;1;;Bon client
+443;18/07/1989;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Voiture ou autre;1;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Autres;2629;20;0;;Bon client
+444;31/03/1977;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Education;719;12;0;;Mauvais client
+445;10/05/1988;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;5096;48;0;;Mauvais client
+446;31/05/1977;Femme;Non qualifie;>=7 ans;Location;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Education;1244;9;0;;Bon client
+447;26/11/1984;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1842;36;0;;Mauvais client
+448;11/12/1983;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2576;7;1;;Bon client
+449;18/03/1963;Femme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;>=200 EUR;Compte cheque inconnu;Mobilier /equipements;1424;12;0;;Bon client
+450;05/04/1957;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;0;Au moins un retard de paiement;2;0-200 EUR;>=1000 EUR;Reparation;1512;15;0;;Mauvais client
+451;30/04/1988;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Car (used);11054;36;0;;Bon client
+452;02/03/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;518;6;0;;Bon client
+453;30/04/1984;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2759;12;0;;Bon client
+454;08/10/1983;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);2670;24;0;;Bon client
+455;04/07/1987;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);4817;24;1;;Mauvais client
+456;06/03/1989;Femme;Tres qualifie/independants;< 1 an;Proprietaire;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);2679;24;0;;Bon client
+457;25/04/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);3905;11;0;;Bon client
+458;20/10/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);3386;12;0;;Mauvais client
+459;26/01/1991;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Appareils menagers;343;6;0;;Bon client
+460;09/10/1986;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;4594;18;0;;Bon client
+461;24/04/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3620;36;1;;Bon client
+462;29/06/1982;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1721;15;0;;Bon client
+463;21/11/1984;Femme;Tres qualifie/independants;< 1 an;Location;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;3017;12;0;;Bon client
+464;13/09/1980;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;2;0-200 EUR;Compte cheque inconnu;Autres;754;12;0;Aucun;Bon client
+465;27/06/1984;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Affaires;1950;18;0;;Bon client
+466;20/01/1955;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);2924;24;1;;Bon client
+467;12/03/1989;Femme;Non qualifie;< 1 an;Location;2;Voiture ou autre;1;Au moins un retard de paiement;1;< 0EUR;< 100 EUR;Radio/Television;1659;24;0;;Mauvais client
+468;21/09/1986;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;Compte cheque inconnu;Radio/Television;7238;48;0;;Bon client
+469;10/11/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Affaires;2764;33;0;;Bon client
+470;03/03/1983;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (used);4679;24;0;;Bon client
+471;28/12/1996;Homme;Qualifie/fonctionnaire;< 1 an;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Radio/Television;3092;24;0;;Mauvais client
+472;26/10/1995;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;448;6;0;;Mauvais client
+473;15/11/1990;Homme;Non qualifie;1-4 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);654;9;0;;Mauvais client
+474;21/06/1982;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Autres;1238;6;0;;Bon client
+475;02/12/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Radio/Television;1245;18;0;;Mauvais client
+476;21/08/1992;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3114;18;0;;Mauvais client
+477;11/05/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (used);2569;39;0;;Bon client
+478;25/03/1993;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;5152;24;0;;Bon client
+479;05/12/1979;Homme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Affaires;1037;12;0;Aucun;Bon client
+480;11/02/1974;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;1478;15;0;;Bon client
+481;12/10/1995;Femme;Non qualifie;1-4 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Radio/Television;3573;12;0;;Bon client
+482;26/11/1992;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);1201;24;0;;Bon client
+483;14/09/1961;Femme;Qualifie/fonctionnaire;>=7 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;2;< 0EUR;>=1000 EUR;Mobilier /equipements;3622;30;0;;Bon client
+484;14/01/1988;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;2;Pas de compte courant;>=1000 EUR;Mobilier /equipements;960;15;0;;Bon client
+485;21/07/1974;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;500-1000 EUR;Car (new);1163;12;0;;Bon client
+486;09/07/1971;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Accord de construction;1;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Car (new);1209;6;0;;Mauvais client
+487;20/10/1966;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;3077;12;0;;Bon client
+488;03/11/1956;Femme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);3757;24;1;;Bon client
+489;03/05/1983;Homme;Non qualifie;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (new);1418;10;0;;Bon client
+490;04/03/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Location;3;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);3518;6;1;;Bon client
+491;31/07/1992;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1934;12;0;;Bon client
+492;28/02/1976;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Affaires;8318;27;0;;Mauvais client
+493;30/03/1991;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Radio/Television;1237;6;0;;Bon client
+494;12/09/1980;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;368;6;0;;Bon client
+495;10/11/1979;Homme;Non qualifie;1-4 ans;Location;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2122;12;0;;Bon client
+496;15/02/1998;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Mobilier /equipements;2996;24;0;;Mauvais client
+497;29/05/1989;Homme;Tres qualifie/independants;< 1 an;Location;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Mobilier /equipements;9034;36;1;;Mauvais client
+498;01/11/1978;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;1585;24;0;;Bon client
+499;28/03/1986;Homme;Non qualifie;>=7 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1301;18;1;;Bon client
+500;29/12/1990;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;100-500 EUR;Car (new);1323;6;0;;Bon client
+501;03/05/1991;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);3123;24;0;;Mauvais client
+502;03/03/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);5493;36;0;;Bon client
+503;14/12/1969;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;100-500 EUR;Radio/Television;1126;9;0;;Bon client
+504;05/09/1980;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;100-500 EUR;Radio/Television;1216;24;0;;Mauvais client
+505;27/09/1994;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1207;24;0;;Mauvais client
+506;29/06/1991;Homme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);1309;10;1;;Mauvais client
+507;20/01/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;>=200 EUR;500-1000 EUR;Car (used);2360;15;0;;Bon client
+508;25/08/1984;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);6850;15;0;;Mauvais client
+509;05/07/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1413;24;0;;Bon client
+510;03/11/1973;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (used);8588;39;0;;Bon client
+511;07/06/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);759;12;0;;Mauvais client
+512;13/05/1986;Homme;Tres qualifie/independants;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);4686;36;0;;Bon client
+513;26/11/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Affaires;2687;15;0;;Bon client
+514;03/07/1998;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Bien immobilier;0;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Radio/Television;585;12;1;;Bon client
+515;07/02/1964;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);2255;24;0;;Bon client
+516;10/04/1981;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);609;6;0;;Bon client
+517;14/09/1978;Homme;Non qualifie;< 1 an;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Car (new);1361;6;0;;Bon client
+518;13/10/1995;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;7127;36;0;;Mauvais client
+519;04/03/1975;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Car (new);1203;6;0;;Bon client
+520;20/02/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;700;6;0;;Bon client
+521;05/06/1974;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Reparation;5507;24;0;;Bon client
+522;30/10/1994;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;3190;18;0;;Mauvais client
+523;17/05/1965;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Mobilier /equipements;7119;48;0;;Mauvais client
+524;07/12/1995;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (used);3488;24;0;;Bon client
+525;08/02/1992;Femme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1113;18;1;Aucun;Bon client
+526;23/08/1988;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Car (used);7966;26;0;;Bon client
+527;29/11/1987;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;100-500 EUR;Education;1532;15;0;;Bon client
+528;28/03/1976;Homme;Non qualifie;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1503;4;0;;Bon client
+529;08/05/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2302;36;0;;Mauvais client
+530;04/11/1977;Homme;Non qualifie;< 1 an;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);662;6;0;;Bon client
+531;23/06/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Education;2273;36;0;;Bon client
+532;15/07/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Car (new);2631;15;0;;Mauvais client
+533;18/02/1977;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Bien immobilier;0;Au moins un retard de paiement;1;Pas de compte courant;< 100 EUR;Car (used);1503;12;0;;Bon client
+534;30/08/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;1311;24;0;;Bon client
+535;26/08/1993;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Radio/Television;3105;24;0;Aucun;Bon client
+536;13/07/1985;Homme;Qualifie/fonctionnaire;< 1 an;Location;1;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;>=200 EUR;< 100 EUR;Education;2319;21;0;;Mauvais client
+537;26/11/1943;Femme;Tres qualifie/independants;Sans emploi;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);1374;6;0;;Bon client
+538;23/09/1981;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;3612;18;0;;Bon client
+539;16/04/1976;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);7763;48;0;;Mauvais client
+540;13/04/1973;Femme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;3049;18;0;;Bon client
+541;05/09/1995;Homme;Qualifie/fonctionnaire;< 1 an;Location;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1534;12;0;Aucun;Mauvais client
+542;10/08/1958;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (new);2032;24;0;;Bon client
+543;26/12/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Mobilier /equipements;6350;30;0;;Mauvais client
+544;26/03/1984;Homme;Non qualifie;1-4 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;2864;18;0;;Mauvais client
+545;24/06/1957;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1255;12;0;;Bon client
+546;20/06/1975;Homme;Qualifie/fonctionnaire;Sans emploi;Logement gratuit;2;Bien immobilier;0;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Car (new);1333;24;0;;Mauvais client
+547;18/05/1981;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Car (new);2022;24;0;;Bon client
+548;09/05/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1552;24;0;;Bon client
+549;22/01/1994;Femme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;626;12;0;;Mauvais client
+550;12/09/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Logement gratuit;1;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);8858;48;0;;Bon client
+551;13/01/1995;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Reparation;996;12;0;;Bon client
+552;26/11/1973;Homme;Non qualifie;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;1750;6;0;;Bon client
+553;23/06/1984;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Radio/Television;6999;48;1;;Mauvais client
+554;15/05/1991;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;100-500 EUR;Car (new);1995;12;0;;Bon client
+555;09/06/1951;Femme;Tres qualifie/independants;4 a 7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Education;1199;9;0;;Bon client
+556;26/07/1996;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1331;12;0;;Mauvais client
+557;02/04/1990;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Car (new);2278;18;0;;Mauvais client
+558;28/07/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Car (new);5003;21;0;;Mauvais client
+559;29/04/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3552;24;0;;Mauvais client
+560;26/07/1987;Homme;Non qualifie;< 1 an;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Mobilier /equipements;1928;18;0;;Mauvais client
+561;28/11/1969;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (used);2964;24;0;;Bon client
+562;03/06/1994;Homme;Non qualifie;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1546;24;1;;Mauvais client
+563;26/02/1989;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Au moins un retard de paiement;1;>=200 EUR;< 100 EUR;Radio/Television;683;6;0;;Bon client
+564;17/02/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);12389;36;0;;Mauvais client
+565;13/10/1981;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Accord de construction;1;Au moins un retard de paiement;2;0-200 EUR;Compte cheque inconnu;Affaires;4712;24;0;;Bon client
+566;04/09/1995;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;2;Accord de construction;1;Au moins un retard de paiement;2;0-200 EUR;100-500 EUR;Radio/Television;1553;24;0;;Bon client
+567;02/12/1982;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1372;12;0;;Mauvais client
+568;12/07/1984;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;>=1000 EUR;Radio/Television;2578;24;0;;Bon client
+569;14/07/1977;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;Compte cheque inconnu;Radio/Television;3979;48;0;;Bon client
+570;27/07/1987;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;6758;48;0;Aucun;Mauvais client
+571;02/05/1995;Femme;Non qualifie;< 1 an;Location;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3234;24;0;;Mauvais client
+572;06/09/1980;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Radio/Television;5954;30;1;;Bon client
+573;16/04/1992;Femme;Tres qualifie/independants;Sans emploi;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);5433;24;0;;Bon client
+574;22/03/1996;Femme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;806;15;0;;Bon client
+575;18/05/1991;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Radio/Television;1082;9;0;;Bon client
+576;30/04/1994;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2788;15;1;Aucun;Bon client
+577;22/02/1991;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2930;12;0;Aucun;Bon client
+578;03/08/1985;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Education;1927;24;0;Aucun;Bon client
+579;27/12/1991;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);2820;36;0;Aucun;Mauvais client
+580;15/05/1991;Homme;Non qualifie;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Autres;937;24;0;Aucun;Bon client
+581;25/11/1988;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);1056;18;1;;Mauvais client
+582;02/02/1969;Homme;Non qualifie;< 1 an;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (new);3124;12;0;;Bon client
+583;04/07/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1388;9;0;;Bon client
+584;31/10/1985;Homme;Non qualifie;< 1 an;Location;1;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Reparation;2384;36;0;;Mauvais client
+585;18/12/1966;Femme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);2133;12;0;;Bon client
+586;18/01/1998;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2039;18;0;;Mauvais client
+587;05/06/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2799;9;0;;Bon client
+588;11/07/1997;Homme;Non qualifie;1-4 ans;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1289;12;1;;Bon client
+589;26/08/1971;Homme;Non qualifie;1-4 ans;Proprietaire;3;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Appareils menagers;1217;18;0;;Mauvais client
+590;27/04/1958;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;2246;12;0;Aucun;Mauvais client
+591;28/06/1960;Femme;Non qualifie;4 a 7 ans;Proprietaire;3;Bien immobilier;1;Compte critique / Autres credits (autre banque);4;< 0EUR;< 100 EUR;Radio/Television;385;12;0;;Bon client
+592;19/06/1976;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;1;Au moins un retard de paiement;2;0-200 EUR;Compte cheque inconnu;Car (new);1965;24;0;;Bon client
+593;28/11/1982;Femme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Affaires;1572;21;0;;Bon client
+594;12/10/1998;Femme;Non qualifie;1-4 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);2718;24;0;;Mauvais client
+595;20/10/1978;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Autres;1358;24;0;;Mauvais client
+596;17/03/1986;Femme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);931;6;0;;Mauvais client
+597;31/12/1995;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);1442;24;0;;Mauvais client
+598;23/06/1982;Homme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;3;0-200 EUR;< 100 EUR;Affaires;4241;24;0;;Mauvais client
+599;30/07/1987;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);2775;18;0;;Mauvais client
+600;12/09/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;0;Au moins un retard de paiement;1;Pas de compte courant;< 100 EUR;Affaires;3863;24;0;Banque;Bon client
+601;20/02/1973;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2329;7;1;;Bon client
+602;15/04/1988;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;918;9;0;;Mauvais client
+603;18/07/1984;Femme;Non qualifie;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Education;1837;24;0;;Mauvais client
+604;26/09/1990;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;3349;36;0;;Mauvais client
+605;25/04/1995;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;1275;10;0;;Bon client
+606;14/04/1996;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Mobilier /equipements;2828;24;0;;Bon client
+607;07/07/1944;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Affaires;4526;24;0;;Bon client
+608;10/08/1968;Femme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Radio/Television;2671;36;1;;Mauvais client
+609;22/10/1985;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;2051;18;0;;Bon client
+610;06/09/1973;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);1300;15;0;;Bon client
+611;11/08/1996;Femme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Appareils menagers;741;12;0;;Mauvais client
+612;16/09/1970;Femme;Non qualifie;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;>=200 EUR;100-500 EUR;Car (new);1240;10;0;Aucun;Mauvais client
+613;13/02/1989;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;>=1000 EUR;Radio/Television;3357;21;0;;Bon client
+614;01/03/1996;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);3632;24;1;Banque;Bon client
+615;28/11/1996;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Au moins un retard de paiement;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1808;18;0;;Mauvais client
+616;24/05/1970;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Affaires;12204;48;0;;Bon client
+617;24/09/1991;Homme;Tres qualifie/independants;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;0;Au moins un retard de paiement;1;0-200 EUR;Compte cheque inconnu;Radio/Television;9157;60;0;;Bon client
+618;21/05/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Location;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Car (new);3676;6;0;;Bon client
+619;27/11/1997;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Mobilier /equipements;3441;30;1;;Mauvais client
+620;27/08/1969;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);640;12;0;;Bon client
+621;18/09/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Affaires;3652;21;0;Aucun;Bon client
+622;29/09/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1530;18;0;;Mauvais client
+623;01/03/1980;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Affaires;3914;48;0;;Mauvais client
+624;21/12/1996;Femme;Qualifie/fonctionnaire;< 1 an;Location;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1858;12;0;;Bon client
+625;27/09/1953;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Radio/Television;2600;18;0;;Mauvais client
+626;13/04/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;1979;15;0;;Bon client
+627;27/03/1977;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;2116;6;0;;Bon client
+628;02/04/1989;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);1437;9;0;;Mauvais client
+629;10/01/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;500-1000 EUR;Mobilier /equipements;4042;42;0;;Bon client
+630;28/08/1954;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Education;3832;9;0;;Bon client
+631;29/10/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;3660;24;0;;Bon client
+632;19/05/1974;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1553;18;0;;Mauvais client
+633;24/03/1995;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;1444;15;0;Aucun;Bon client
+634;02/11/1999;Femme;Qualifie/fonctionnaire;< 1 an;Location;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;1980;9;1;;Mauvais client
+635;17/02/1993;Femme;Non qualifie;< 1 an;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);1355;24;0;;Mauvais client
+636;21/05/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;3;Pas de compte courant;< 100 EUR;Education;1393;12;0;;Bon client
+637;30/05/1990;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;1376;24;0;;Bon client
+638;12/10/1997;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Radio/Television;15653;60;0;;Bon client
+639;24/04/1984;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1493;12;0;;Bon client
+640;07/10/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;1;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Radio/Television;4370;42;0;Banque;Mauvais client
+641;08/01/1991;Femme;Sans emploi;Sans emploi;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;750;18;0;;Mauvais client
+642;25/05/1980;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Reparation;1308;15;0;;Bon client
+643;22/03/1978;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Education;4623;15;0;;Mauvais client
+644;02/06/1985;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1851;24;1;;Bon client
+645;10/02/1986;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;1;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Radio/Television;1880;18;0;;Bon client
+646;24/11/1991;Homme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;Compte cheque inconnu;Affaires;7980;36;0;;Mauvais client
+647;03/11/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Mobilier /equipements;4583;30;1;;Bon client
+648;16/12/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);1386;12;0;;Mauvais client
+649;22/11/1980;Homme;Qualifie/fonctionnaire;4 a 7 ans;Logement gratuit;3;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Car (new);947;24;0;;Mauvais client
+650;22/09/1978;Homme;Non qualifie;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;684;12;0;;Mauvais client
+651;04/11/1968;Homme;Tres qualifie/independants;4 a 7 ans;Logement gratuit;1;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;7476;48;0;;Bon client
+652;29/10/1981;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;1922;12;0;;Mauvais client
+653;10/03/1973;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);2303;24;1;;Mauvais client
+654;29/07/1976;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Au moins un retard de paiement;4;0-200 EUR;100-500 EUR;Car (new);8086;36;0;;Mauvais client
+655;23/06/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (used);2346;24;0;Aucun;Bon client
+656;05/11/1996;Homme;Qualifie/fonctionnaire;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);3973;14;0;;Bon client
+657;22/10/1977;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);888;12;0;;Mauvais client
+658;01/03/1981;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;10222;48;0;;Bon client
+659;17/10/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Affaires;4221;30;0;;Bon client
+660;17/11/1977;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;1;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;6361;18;0;;Bon client
+661;27/10/1995;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;1297;12;0;;Bon client
+662;22/08/1995;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);900;12;0;;Mauvais client
+663;10/07/1968;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2241;21;0;Aucun;Bon client
+664;30/10/1983;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;1;Accord de construction;1;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Mobilier /equipements;1050;6;0;Aucun;Bon client
+665;25/11/1968;Femme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;>=200 EUR;< 100 EUR;Education;1047;6;0;Aucun;Bon client
+666;05/11/1991;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Autres;6314;24;1;Aucun;Bon client
+667;24/11/1984;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Mobilier /equipements;3496;30;0;;Bon client
+668;08/05/1991;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;3609;48;0;;Bon client
+669;21/08/1975;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);4843;12;1;;Mauvais client
+670;28/07/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;>=200 EUR;< 100 EUR;Radio/Television;3017;30;0;;Bon client
+671;10/02/1991;Homme;Non qualifie;1-4 ans;Proprietaire;3;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Affaires;4139;24;0;;Bon client
+672;05/02/1987;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;100-500 EUR;Affaires;5742;36;0;Aucun;Bon client
+673;26/06/1976;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);10366;60;0;;Bon client
+674;16/11/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;500-1000 EUR;Car (new);2080;6;0;;Bon client
+675;06/02/1977;Homme;Non qualifie;< 1 an;Proprietaire;2;Bien immobilier;0;Au moins un retard de paiement;1;Pas de compte courant;500-1000 EUR;Affaires;2580;21;0;;Mauvais client
+676;30/08/1992;Femme;Tres qualifie/independants;4 a 7 ans;Location;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Radio/Television;4530;30;0;;Bon client
+677;13/06/1985;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Mobilier /equipements;5150;24;0;;Bon client
+678;11/11/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Radio/Television;5595;72;0;;Mauvais client
+679;29/04/1954;Homme;Non qualifie;>=7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2384;24;0;;Bon client
+680;03/07/1992;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1453;18;0;;Bon client
+681;19/12/1962;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Education;1538;6;0;Aucun;Bon client
+682;18/04/1981;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;2279;12;0;;Bon client
+683;11/09/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Radio/Television;1478;15;0;;Bon client
+684;16/08/1971;Homme;Qualifie/fonctionnaire;< 1 an;Logement gratuit;3;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Radio/Television;5103;24;0;;Bon client
+685;13/10/1987;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Accord de construction;1;Au moins un retard de paiement;2;0-200 EUR;100-500 EUR;Affaires;9857;36;0;;Bon client
+686;30/05/1984;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);6527;60;0;;Bon client
+687;24/09/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Radio/Television;1347;10;0;;Bon client
+688;04/04/1988;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;3;Inconnu/Pas de propriete;0;Au moins un retard de paiement;1;0-200 EUR;100-500 EUR;Car (new);2862;36;0;Aucun;Bon client
+689;27/02/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;2753;9;1;;Bon client
+690;17/10/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;>=1000 EUR;Car (new);3651;12;0;;Bon client
+691;30/06/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;975;15;0;;Bon client
+692;25/02/1993;Femme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Reparation;2631;15;0;;Bon client
+693;02/02/1989;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Radio/Television;2896;24;0;;Bon client
+694;19/11/1974;Homme;Non qualifie;< 1 an;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;Compte cheque inconnu;Car (new);4716;6;0;;Bon client
+695;18/03/1990;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;2284;24;0;;Bon client
+696;20/05/1968;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (used);1236;6;0;Aucun;Bon client
+697;26/04/1989;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Radio/Television;1103;12;1;;Bon client
+698;07/04/1980;Femme;Sans emploi;Sans emploi;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Car (new);926;12;0;;Bon client
+699;10/05/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1800;18;0;;Bon client
+700;09/06/1978;Homme;Tres qualifie/independants;>=7 ans;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Education;1905;15;0;;Bon client
+701;01/08/1989;Femme;Non qualifie;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;1123;12;0;;Mauvais client
+702;26/04/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);6331;48;0;;Mauvais client
+703;16/11/1971;Femme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;>=200 EUR;100-500 EUR;Radio/Television;1377;24;0;;Bon client
+704;13/10/1977;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;2;0-200 EUR;100-500 EUR;Affaires;2503;30;0;;Bon client
+705;24/08/1986;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;2528;27;0;;Bon client
+706;30/03/1983;Femme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Car (new);5324;15;0;;Bon client
+707;14/10/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);6560;48;0;;Mauvais client
+708;04/03/1993;Femme;Qualifie/fonctionnaire;< 1 an;Location;3;Accord de construction;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Mobilier /equipements;2969;12;0;Aucun;Mauvais client
+709;23/12/1993;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1206;9;0;Aucun;Bon client
+710;07/06/1981;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2118;9;0;;Bon client
+711;06/05/1986;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;3;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;500-1000 EUR;Radio/Television;629;18;0;;Bon client
+712;13/07/1983;Femme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;1198;6;0;;Mauvais client
+713;03/02/1972;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);2476;21;0;;Bon client
+714;09/08/1993;Homme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Radio/Television;1138;9;0;;Bon client
+715;14/02/1991;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);14027;60;0;;Mauvais client
+716;07/07/1955;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);7596;30;0;;Bon client
+717;29/07/1978;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;3077;30;0;;Bon client
+718;13/06/1986;Homme;Tres qualifie/independants;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1505;18;0;;Bon client
+719;28/10/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Radio/Television;3148;24;0;;Bon client
+720;12/06/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Car (used);6148;20;0;;Bon client
+721;15/01/1984;Homme;Tres qualifie/independants;< 1 an;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;>=200 EUR;< 100 EUR;Radio/Television;1337;9;0;;Mauvais client
+722;31/05/1994;Femme;Qualifie/fonctionnaire;< 1 an;Location;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Education;433;6;0;;Mauvais client
+723;11/06/1994;Femme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1228;12;0;;Mauvais client
+724;17/04/1952;Femme;Non qualifie;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Radio/Television;790;9;0;;Bon client
+725;14/04/1997;Femme;Qualifie/fonctionnaire;1-4 ans;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);2570;27;0;;Mauvais client
+726;17/03/1977;Femme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Car (new);250;6;0;;Bon client
+727;25/02/1971;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;500-1000 EUR;Radio/Television;1316;15;0;;Bon client
+728;21/04/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Radio/Television;1882;18;0;;Mauvais client
+729;20/06/1959;Femme;Qualifie/fonctionnaire;>=7 ans;Location;3;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;6416;48;0;Aucun;Mauvais client
+730;13/07/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;>=1000 EUR;Affaires;1275;24;0;;Bon client
+731;01/06/1985;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;0;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Radio/Television;6403;24;0;;Bon client
+732;24/02/1997;Homme;Non qualifie;1-4 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1987;24;0;;Mauvais client
+733;16/08/1974;Femme;Non qualifie;4 a 7 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;760;8;1;;Bon client
+734;21/09/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Car (used);2603;24;0;;Bon client
+735;15/10/1981;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Car (new);3380;4;0;;Bon client
+736;21/09/1989;Femme;Sans emploi;< 1 an;Proprietaire;2;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Appareils menagers;3990;36;0;;Bon client
+737;26/05/1995;Femme;Tres qualifie/independants;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Car (used);11560;24;0;;Mauvais client
+738;10/05/1983;Homme;Non qualifie;1-4 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Car (new);4380;18;0;;Bon client
+739;11/11/1973;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);6761;6;0;;Bon client
+740;11/10/1992;Femme;Non qualifie;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;100-500 EUR;Affaires;4280;30;0;;Mauvais client
+741;10/07/1986;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Car (new);2325;24;0;;Bon client
+742;12/05/1995;Homme;Non qualifie;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1048;10;0;;Bon client
+743;17/12/1977;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;3160;21;0;;Bon client
+744;08/01/1996;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Mobilier /equipements;2483;24;0;;Bon client
+745;03/04/1988;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;Compte cheque inconnu;Mobilier /equipements;14179;39;0;;Bon client
+746;23/03/1990;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Affaires;1797;13;0;;Bon client
+747;06/02/1995;Femme;Qualifie/fonctionnaire;Sans emploi;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);2511;15;0;;Bon client
+748;01/06/1981;Femme;Non qualifie;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1274;12;0;Aucun;Mauvais client
+749;08/03/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);5248;21;0;;Bon client
+750;18/08/1985;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);3029;15;0;;Bon client
+751;17/11/1969;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;428;6;0;;Bon client
+752;20/08/1995;Femme;Non qualifie;< 1 an;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);976;18;0;;Mauvais client
+753;31/12/1995;Femme;Non qualifie;4 a 7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Affaires;841;12;0;;Bon client
+754;04/11/1993;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;5771;30;0;;Bon client
+755;09/03/1963;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Au moins un retard de paiement;2;Pas de compte courant;>=1000 EUR;Reparation;1555;12;0;Banque;Mauvais client
+756;03/07/1986;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);1285;24;0;Banque;Mauvais client
+757;28/11/1944;Homme;Sans emploi;1-4 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;>=200 EUR;< 100 EUR;Car (new);1299;6;0;;Bon client
+758;19/02/1979;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Radio/Television;1271;15;0;;Mauvais client
+759;05/05/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1393;24;1;;Bon client
+760;06/06/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);691;12;0;;Mauvais client
+761;28/02/1959;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Car (new);5045;15;0;;Bon client
+762;05/02/1994;Femme;Qualifie/fonctionnaire1-4 ans;1;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;2124;18;0;;Mauvais client;
+763;23/11/1994;Homme;Non qualifie;1-4 ans;Proprietaire;3;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2214;12;0;Aucun;Bon client
+764;02/09/1988;Homme;Tres qualifie/independants;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;Compte cheque inconnu;Car (new);12680;21;0;;Mauvais client
+765;17/12/1991;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Car (new);2463;24;0;;Bon client
+766;12/09/1978;Homme;Non qualifie;>=7 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Radio/Television;1155;12;1;;Bon client
+767;18/04/1987;Homme;Non qualifie;< 1 an;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3108;30;0;;Mauvais client
+768;13/04/1987;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);2901;10;0;;Bon client
+769;18/08/1990;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);3;0-200 EUR;< 100 EUR;Mobilier /equipements;3617;12;0;;Bon client
+770;24/07/1955;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1655;12;0;;Bon client
+771;18/09/1992;Femme;Qualifie/fonctionnaire;>=7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (used);2812;24;0;;Bon client
+772;27/01/1993;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Education;8065;36;0;;Mauvais client
+773;28/07/1982;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Car (used);3275;21;0;;Bon client
+774;01/05/1966;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;100-500 EUR;Radio/Television;2223;24;0;;Bon client
+775;08/11/1952;Homme;Sans emploi;Sans emploi;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);3;>=200 EUR;500-1000 EUR;Car (new);1480;12;0;;Bon client
+776;25/06/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);1371;24;0;;Mauvais client
+777;08/09/1981;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);3535;36;0;;Bon client
+778;01/09/1993;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;3509;18;1;;Bon client
+779;19/06/1980;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Car (used);5711;36;0;;Bon client
+780;29/11/1951;Femme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Reparation;3872;18;0;;Bon client
+781;24/09/1993;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Radio/Television;4933;39;1;;Mauvais client
+782;16/05/1958;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;>=1000 EUR;Car (new);1940;24;0;;Bon client
+783;25/07/1987;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Autres;1410;12;0;;Bon client
+784;21/03/1995;Femme;Non qualifie;< 1 an;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);836;12;0;;Mauvais client
+785;16/10/1958;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (used);6468;20;0;;Bon client
+786;12/06/1983;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;>=1000 EUR;Affaires;1941;18;0;;Bon client
+787;29/11/1978;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Radio/Television;2675;22;0;Aucun;Bon client
+788;19/07/1980;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);2751;48;0;;Bon client
+789;11/02/1968;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Education;6224;48;0;;Mauvais client
+790;03/08/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Education;5998;40;0;;Mauvais client
+791;11/04/1979;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;1188;21;0;;Mauvais client
+792;21/06/1977;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);6313;24;0;;Bon client
+793;08/09/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;1221;6;0;;Bon client
+794;21/01/1967;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Mobilier /equipements;2892;24;0;;Bon client
+795;29/07/1986;Homme;Qualifie/fonctionnaire;>=7 ans;Location;3;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;3062;24;0;;Bon client
+796;22/05/1996;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Mobilier /equipements;2301;9;0;;Bon client
+797;18/05/1967;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (used);7511;18;0;;Mauvais client
+798;30/04/1996;Femme;Non qualifie;< 1 an;Location;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;1258;12;0;;Bon client
+799;02/09/1964;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;Compte cheque inconnu;Car (new);717;24;0;;Bon client
+800;08/03/1983;Homme;Sans emploi;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);1549;9;0;;Bon client
+801;08/06/1964;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Education;1597;24;0;;Bon client
+802;07/11/1970;Femme;Non qualifie;>=7 ans;Location;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Radio/Television;1795;18;1;;Bon client
+803;30/09/1994;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;4272;20;0;;Bon client
+804;23/06/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;976;12;0;Aucun;Bon client
+805;16/06/1994;Femme;Sans emploi;Sans emploi;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);7472;12;0;;Bon client
+806;14/12/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);9271;36;0;;Mauvais client
+807;26/02/1992;Homme;Non qualifie;< 1 an;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;590;6;0;;Bon client
+808;09/09/1953;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);4;Pas de compte courant;Compte cheque inconnu;Radio/Television;930;12;0;;Bon client
+809;06/03/1963;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (used);9283;42;0;;Bon client
+810;13/06/1992;Femme;Sans emploi;< 1 an;Location;1;Bien immobilier;0;Pas de credit/credit rembourse;2;0-200 EUR;< 100 EUR;Car (new);1778;15;0;;Mauvais client
+811;14/04/1992;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;907;8;0;Aucun;Bon client
+812;05/06/1990;Homme;Non qualifie;4 a 7 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;484;6;1;;Bon client
+813;14/02/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);9629;36;0;;Mauvais client
+814;08/08/1964;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Appareils menagers;3051;48;0;;Mauvais client
+815;06/08/1972;Homme;Qualifie/fonctionnaire;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);3931;48;0;;Mauvais client
+816;25/10/1964;Femme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;0;Au moins un retard de paiement;1;0-200 EUR;< 100 EUR;Car (new);7432;36;0;;Bon client
+817;17/11/1956;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Appareils menagers;1338;6;0;;Bon client
+818;01/09/1994;Femme;Qualifie/fonctionnaire;4 a 7 ans;Location;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1554;6;0;;Bon client
+819;20/12/1975;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Autres;15857;36;1;;Bon client
+820;09/10/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1345;18;0;;Mauvais client
+821;03/05/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Car (new);1101;12;0;;Bon client
+822;23/05/1994;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;3016;12;0;Aucun;Bon client
+823;19/09/1977;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;2712;36;0;;Mauvais client
+824;04/05/1971;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);731;8;0;;Bon client
+825;21/09/1983;Homme;Tres qualifie/independants;< 1 an;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;3780;18;0;;Bon client
+826;11/04/1988;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);1602;21;0;;Bon client
+827;09/06/1985;Femme;Qualifie/fonctionnaire;>=7 ans;Location;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);3;< 0EUR;< 100 EUR;Car (new);3966;18;0;;Mauvais client
+828;05/02/1982;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Affaires;4165;18;0;;Mauvais client
+829;12/07/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (used);8335;36;0;;Mauvais client
+830;26/02/1980;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Au moins un retard de paiement;1;0-200 EUR;Compte cheque inconnu;Affaires;6681;48;0;;Bon client
+831;18/07/1974;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;500-1000 EUR;Affaires;2375;24;0;;Bon client
+832;10/04/1995;Femme;Qualifie/fonctionnaire;< 1 an;Location;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1216;18;0;;Mauvais client
+833;02/09/1989;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Affaires;11816;45;0;Aucun;Mauvais client
+834;04/10/1976;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;5084;24;0;;Bon client
+835;06/05/1993;Femme;Non qualifie;< 1 an;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;2327;15;0;;Mauvais client
+836;02/06/1970;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);1082;12;0;;Mauvais client
+837;05/12/1997;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;886;12;0;;Bon client
+838;14/08/1995;Femme;Non qualifie;< 1 an;Location;3;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;601;4;0;Aucun;Bon client
+839;22/12/1955;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (used);2957;24;0;;Bon client
+840;20/02/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;2611;24;1;;Bon client
+841;19/08/1989;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;5179;36;0;;Mauvais client
+842;29/07/1990;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (used);2993;21;0;;Bon client
+843;19/02/1995;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Reparation;1943;18;0;Aucun;Mauvais client
+844;12/04/1968;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;1559;24;0;;Bon client
+845;17/08/1971;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;3;Pas de compte courant;< 100 EUR;Mobilier /equipements;3422;18;0;;Bon client
+846;02/04/1983;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Mobilier /equipements;3976;21;0;;Bon client
+847;10/10/1950;Homme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Car (new);6761;18;0;;Mauvais client
+848;03/04/1990;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1249;24;0;;Bon client
+849;24/08/1959;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1364;9;0;;Bon client
+850;07/06/1961;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;709;12;0;Magasins;Mauvais client
+851;18/10/1985;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2235;20;1;;Mauvais client
+852;26/04/1975;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);4042;24;0;Aucun;Bon client
+853;27/03/1983;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1471;15;0;;Bon client
+854;03/09/1986;Homme;Non qualifie;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);1442;18;0;;Mauvais client
+855;23/06/1973;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (new);10875;36;0;Aucun;Bon client
+856;02/09/1985;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;3;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (new);1474;24;0;;Bon client
+857;25/06/1978;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Autres;894;10;0;;Bon client
+858;25/05/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;2;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Mobilier /equipements;3343;15;0;;Bon client
+859;11/04/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);3959;15;0;;Mauvais client
+860;04/10/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (new);3577;9;1;;Bon client
+861;26/06/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Car (used);5804;24;0;;Bon client
+862;05/01/1990;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;1;Pas de compte courant;< 100 EUR;Affaires;2169;18;0;;Mauvais client
+863;27/08/1983;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2439;24;0;Magasins;Mauvais client
+864;28/05/1986;Homme;Non qualifie;< 1 an;Proprietaire;2;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;>=1000 EUR;Mobilier /equipements;4526;27;0;;Bon client
+865;02/08/1993;Homme;Non qualifie;1-4 ans;Location;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;2210;10;0;;Mauvais client
+866;19/10/1998;Femme;Qualifie/fonctionnaire;1-4 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;500-1000 EUR;Mobilier /equipements;2221;15;0;Aucun;Bon client
+867;15/12/1991;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2389;18;0;;Bon client
+868;29/08/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Mobilier /equipements;3331;12;0;;Bon client
+869;12/11/1981;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Affaires;7409;36;0;;Bon client
+870;26/10/1994;Femme;Qualifie/fonctionnaire;>=7 ans;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;652;12;0;;Bon client
+871;18/02/1978;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;4;Voiture ou autre;1;Au moins un retard de paiement;2;Pas de compte courant;500-1000 EUR;Mobilier /equipements;7678;36;0;;Bon client
+872;23/04/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;>=200 EUR;< 100 EUR;Car (new);1343;6;0;;Bon client
+873;10/02/1992;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;< 0EUR;100-500 EUR;Affaires;1382;24;0;;Bon client
+874;05/02/1994;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Appareils menagers;874;15;0;;Bon client
+875;26/10/1989;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3590;12;1;;Bon client
+876;09/12/1978;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;>=1000 EUR;Car (new);1322;11;0;;Bon client
+877;20/12/1982;Homme;Tres qualifie/independants;< 1 an;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1940;18;1;;Bon client
+878;20/09/1990;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;3595;36;0;;Bon client
+879;20/07/1991;Homme;Tres qualifie/independants;< 1 an;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1422;9;0;;Mauvais client
+880;16/05/1982;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;6742;30;0;;Bon client
+881;25/05/1980;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (used);7814;24;0;;Bon client
+882;23/03/1970;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (used);9277;24;0;;Bon client
+883;07/11/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;Compte cheque inconnu;Car (new);2181;30;0;;Bon client
+884;01/03/1953;Femme;Sans emploi;Sans emploi;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1098;18;0;Aucun;Bon client
+885;23/09/1975;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Mobilier /equipements;4057;24;0;;Mauvais client
+886;03/05/1965;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Education;795;12;0;;Mauvais client
+887;29/12/1984;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;3;Inconnu/Pas de propriete;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;Compte cheque inconnu;Affaires;2825;24;0;;Bon client
+888;14/12/1995;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Affaires;15672;48;0;;Mauvais client
+889;04/02/1984;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);6614;36;0;;Bon client
+890;12/08/1978;Homme;Qualifie/fonctionnaire;< 1 an;Location;4;Bien immobilier;1;Pas de credit/credit rembourse;2;Pas de compte courant;Compte cheque inconnu;Car (used);7824;28;1;;Bon client
+891;04/04/1975;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);4;< 0EUR;< 100 EUR;Affaires;2442;27;0;;Bon client
+892;23/02/1972;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1829;15;0;;Bon client
+893;15/09/1980;Homme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);2171;12;0;;Bon client
+894;03/07/1984;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Voiture ou autre;1;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Car (used);5800;36;0;;Bon client
+895;17/03/1989;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Radio/Television;1169;18;0;;Bon client
+896;25/06/1987;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Au moins un retard de paiement;1;Pas de compte courant;Compte cheque inconnu;Car (used);8947;36;0;;Bon client
+897;20/11/1990;Femme;Tres qualifie/independants;< 1 an;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;2606;21;0;Aucun;Bon client
+898;26/10/1983;Femme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);1;Pas de compte courant;>=1000 EUR;Mobilier /equipements;1592;12;0;;Bon client
+899;16/04/1985;Femme;Non qualifie;4 a 7 ans;Location;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;2186;15;0;;Bon client
+900;20/10/1976;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;4153;18;1;;Mauvais client
+901;17/01/1975;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Accord de construction;1;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Car (new);2625;16;1;;Mauvais client
+902;13/07/1974;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;4;Bien immobilier;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (new);3485;20;0;;Bon client
+903;13/10/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);10477;36;0;;Bon client
+904;28/05/1978;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;1386;15;0;;Bon client
+905;15/07/1982;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;1;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;1278;24;0;;Bon client
+906;13/11/1998;Homme;Tres qualifie/independants;1-4 ans;Location;2;Bien immobilier;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1107;12;0;;Bon client
+907;21/08/1994;Homme;Non qualifie;4 a 7 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;< 0EUR;Compte cheque inconnu;Car (new);3763;21;1;Magasins;Bon client
+908;24/11/1991;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Education;3711;36;0;;Bon client
+909;06/09/1972;Femme;Non qualifie;< 1 an;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (used);3594;15;0;;Bon client
+910;07/09/1985;Femme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Car (new);3195;9;0;Aucun;Bon client
+911;23/03/1984;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Bien immobilier;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Radio/Television;4454;36;0;;Bon client
+912;11/06/1993;Femme;Non qualifie;< 1 an;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;4736;24;0;;Mauvais client
+913;08/10/1993;Femme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;2991;30;0;Magasins;Bon client
+914;08/11/1990;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Bien immobilier;1;Pas de credit/credit rembourse;1;Pas de compte courant;>=1000 EUR;Affaires;2142;11;0;;Bon client
+915;27/03/1987;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;3161;24;0;;Mauvais client
+916;21/08/1986;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;2;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Autres;18424;48;0;;Mauvais client
+917;02/06/1986;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Car (used);2848;10;1;;Bon client
+918;10/09/1950;Homme;Tres qualifie/independants;>=7 ans;Proprietaire;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);14896;6;0;;Mauvais client
+919;02/11/1985;Homme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;100-500 EUR;Mobilier /equipements;2359;24;0;;Mauvais client
+920;11/09/1979;Homme;Tres qualifie/independants;>=7 ans;Location;2;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3345;24;0;;Mauvais client
+921;19/01/1990;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Inconnu/Pas de propriete;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;1817;18;0;;Bon client
+922;02/03/1981;Homme;Tres qualifie/independants;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Au moins un retard de paiement;1;Pas de compte courant;500-1000 EUR;Radio/Television;12749;48;0;;Bon client
+923;05/08/1996;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1366;9;0;Aucun;Mauvais client
+924;13/05/1988;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Car (new);2002;12;0;;Bon client
+925;30/06/1963;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;6872;24;0;;Mauvais client
+926;14/02/1972;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);697;12;0;;Mauvais client
+927;06/01/1997;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Accord de construction;0;Compte critique / Autres credits (autre banque);1;< 0EUR;< 100 EUR;Mobilier /equipements;1049;18;0;;Bon client
+928;10/08/1979;Homme;Qualifie/fonctionnaire;4 a 7 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;3;< 0EUR;< 100 EUR;Car (used);10297;48;0;;Mauvais client
+929;02/04/1960;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;1867;30;0;;Bon client
+930;14/10/1975;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Car (new);1344;12;0;;Bon client
+931;09/06/1994;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1747;24;1;;Bon client
+932;24/06/1996;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;1670;9;0;;Mauvais client
+933;14/02/1988;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Car (new);1224;9;0;;Bon client
+934;27/06/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;500-1000 EUR;Radio/Television;522;12;0;;Bon client
+935;18/04/1995;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1498;12;0;;Bon client
+936;26/04/1988;Homme;Tres qualifie/independants;< 1 an;Proprietaire;3;Inconnu/Pas de propriete;0;Au moins un retard de paiement;2;0-200 EUR;100-500 EUR;Radio/Television;1919;30;0;;Mauvais client
+937;20/03/1990;Femme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;>=200 EUR;< 100 EUR;Radio/Television;745;9;0;;Mauvais client
+938;08/02/1988;Homme;Tres qualifie/independants;< 1 an;Location;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;2063;6;0;;Bon client
+939;24/12/1976;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Education;6288;60;0;;Mauvais client
+940;31/10/1972;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Car (used);6842;24;0;;Bon client
+941;16/08/1973;Homme;Tres qualifie/independants;< 1 an;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);3527;12;0;;Bon client
+942;15/02/1987;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);1546;10;0;;Bon client
+943;11/07/1987;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Mobilier /equipements;929;24;0;;Bon client
+944;17/05/1976;Homme;Non qualifie;4 a 7 ans;Proprietaire;1;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;Pas de compte courant;< 100 EUR;Car (new);1455;4;0;;Bon client
+945;01/12/1972;Femme;Qualifie/fonctionnaire;< 1 an;Location;1;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;1845;15;1;;Bon client
+946;06/07/1988;Femme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;2;0-200 EUR;500-1000 EUR;Car (new);8358;48;0;;Bon client
+947;20/05/1988;Homme;Qualifie/fonctionnaire;< 1 an;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;500-1000 EUR;Mobilier /equipements;3349;24;0;;Mauvais client
+948;16/06/1980;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);2859;12;0;;Bon client
+949;02/04/1975;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1533;18;1;;Mauvais client
+950;20/02/1987;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;Pas de compte courant;100-500 EUR;Radio/Television;3621;24;0;;Mauvais client
+951;07/02/1978;Homme;Sans emploi;Sans emploi;Proprietaire;3;Voiture ou autre;1;Compte critique / Autres credits (autre banque);3;0-200 EUR;< 100 EUR;Affaires;3590;18;0;;Bon client
+952;08/12/1994;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;1;Voiture ou autre;1;Au moins un retard de paiement;2;< 0EUR;< 100 EUR;Affaires;2145;36;0;Aucun;Mauvais client
+953;19/10/1990;Femme;Qualifie/fonctionnaire;< 1 an;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;500-1000 EUR;Car (used);4113;24;0;;Mauvais client
+954;10/08/1992;Femme;Tres qualifie/independants;Sans emploi;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;< 100 EUR;Mobilier /equipements;10974;36;0;;Mauvais client
+955;28/02/1989;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);1893;12;1;;Bon client
+956;30/04/1961;Femme;Tres qualifie/independants;>=7 ans;Location;4;Accord de construction;1;Compte critique / Autres credits (autre banque);2;< 0EUR;>=1000 EUR;Radio/Television;1231;24;0;;Bon client
+957;08/04/1969;Homme;Non qualifie;>=7 ans;Proprietaire;4;Accord de construction;0;Compte critique / Autres credits (autre banque);2;>=200 EUR;Compte cheque inconnu;Radio/Television;3656;30;0;;Bon client
+958;25/08/1981;Homme;Non qualifie;>=7 ans;Proprietaire;4;Bien immobilier;0;Compte critique / Autres credits (autre banque);3;0-200 EUR;< 100 EUR;Radio/Television;1154;9;0;;Bon client
+959;11/10/1973;Homme;Non qualifie;1-4 ans;Proprietaire;2;Voiture ou autre;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (new);4006;28;0;Aucun;Mauvais client
+960;31/05/1988;Homme;Qualifie/fonctionnaire;>=7 ans;Logement gratuit;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Mobilier /equipements;3069;24;0;;Bon client
+961;12/11/1988;Homme;Qualifie/fonctionnaire;>=7 ans;Location;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Radio/Television;1740;6;0;;Bon client
+962;05/04/1971;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;4;Accord de construction;0;Au moins un retard de paiement;2;0-200 EUR;< 100 EUR;Car (new);2353;21;0;;Bon client
+963;08/04/1989;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);3556;15;0;Aucun;Bon client
+964;03/04/1983;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Voiture ou autre;1;Pas de credit/credit rembourse;2;Pas de compte courant;500-1000 EUR;Radio/Television;2397;24;0;Aucun;Mauvais client
+965;25/11/1996;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Reparation;454;6;0;;Bon client
+966;21/05/1992;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;1;Voiture ou autre;0;Pas de credit/credit rembourse;1;0-200 EUR;Compte cheque inconnu;Radio/Television;1715;30;0;;Bon client
+967;07/07/1995;Homme;Non qualifie;1-4 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;500-1000 EUR;Radio/Television;2520;27;0;;Mauvais client
+968;01/04/1964;Femme;Tres qualifie/independants;>=7 ans;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;3568;15;0;;Bon client
+969;25/09/1989;Homme;Qualifie/fonctionnaire;4 a 7 ans;Location;4;Accord de construction;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Radio/Television;7166;42;0;;Bon client
+970;16/01/1978;Homme;Non qualifie;1-4 ans;Proprietaire;2;Bien immobilier;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Car (new);3939;11;0;;Bon client
+971;24/09/1996;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Reparation;1514;15;1;;Bon client
+972;24/07/1975;Homme;Non qualifie;1-4 ans;Proprietaire;4;Accord de construction;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Car (new);7393;24;0;Aucun;Bon client
+973;26/02/1989;Femme;Sans emploi;Sans emploi;Location;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;2;< 0EUR;< 100 EUR;Car (new);1193;24;1;;Mauvais client
+974;21/03/1982;Homme;Qualifie/fonctionnaire;>=7 ans;Location;4;Inconnu/Pas de propriete;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Affaires;7297;60;1;;Mauvais client
+975;28/10/1985;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Voiture ou autre;1;Compte critique / Autres credits (autre banque);1;Pas de compte courant;< 100 EUR;Radio/Television;2831;30;0;;Bon client
+976;23/01/1961;Femme;Non qualifie;1-4 ans;Proprietaire;3;Voiture ou autre;0;Pas de credit/credit rembourse;1;>=200 EUR;500-1000 EUR;Radio/Television;1258;24;0;Magasins;Bon client
+977;02/04/1954;Femme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;3;Bien immobilier;0;Pas de credit/credit rembourse;1;0-200 EUR;< 100 EUR;Radio/Television;753;6;1;;Bon client
+978;06/01/1976;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;2;Accord de construction;0;Au moins un retard de paiement;2;0-200 EUR;Compte cheque inconnu;Affaires;2427;18;0;;Bon client
+979;12/08/1971;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Au moins un retard de paiement;2;Pas de compte courant;< 100 EUR;Car (new);2538;24;0;;Mauvais client
+980;09/10/1993;Homme;Qualifie/fonctionnaire;1-4 ans;Location;2;Accord de construction;0;Pas de credit/credit rembourse;1;0-200 EUR;100-500 EUR;Car (new);1264;15;0;;Mauvais client
+981;15/03/1969;Homme;Qualifie/fonctionnaire;4 a 7 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;< 100 EUR;Mobilier /equipements;8386;30;0;;Mauvais client
+982;08/02/1985;Homme;Tres qualifie/independants;Sans emploi;Location;2;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Affaires;4844;48;0;;Mauvais client
+983;24/04/1990;Femme;Tres qualifie/independants;1-4 ans;Proprietaire;1;Voiture ou autre;1;Pas de credit/credit rembourse;1;>=200 EUR;100-500 EUR;Car (new);2923;21;0;;Bon client
+984;16/07/1992;Homme;Qualifie/fonctionnaire;1-4 ans;Proprietaire;2;Accord de construction;0;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);8229;36;0;Aucun;Mauvais client
+985;07/03/1988;Homme;Non qualifie;4 a 7 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;< 100 EUR;Mobilier /equipements;2028;24;0;;Bon client
+986;02/11/1993;Femme;Qualifie/fonctionnaire;1-4 ans;Location;3;Accord de construction;0;Compte critique / Autres credits (autre banque);2;< 0EUR;< 100 EUR;Mobilier /equipements;1433;15;0;;Bon client
+987;19/06/1985;Homme;Qualifie/fonctionnaire;< 1 an;Proprietaire;1;Accord de construction;0;Pas de credit/credit rembourse;2;>=200 EUR;< 100 EUR;Affaires;6289;42;0;;Bon client
+988;30/10/1954;Femme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;1409;13;0;;Bon client
+989;19/06/1989;Homme;Tres qualifie/independants;Sans emploi;Logement gratuit;2;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);6579;24;0;;Bon client
+990;16/08/1970;Homme;Non qualifie;>=7 ans;Proprietaire;2;Accord de construction;0;Compte critique / Autres credits (autre banque);2;0-200 EUR;< 100 EUR;Radio/Television;1743;24;0;Magasins;Bon client
+991;29/11/1981;Homme;Non qualifie;< 1 an;Proprietaire;1;Accord de construction;0;Compte critique / Autres credits (autre banque);2;Pas de compte courant;Compte cheque inconnu;Education;3565;12;0;;Bon client
+992;04/09/1984;Homme;Non qualifie;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;100-500 EUR;Radio/Television;1569;15;0;;Bon client
+993;29/09/1995;Homme;Non qualifie;4 a 7 ans;Location;4;Voiture ou autre;0;Pas de credit/credit rembourse;2;< 0EUR;Compte cheque inconnu;Radio/Television;1936;18;0;;Bon client
+994;29/08/1988;Homme;Tres qualifie/independants;Sans emploi;Proprietaire;3;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Mobilier /equipements;3959;36;0;;Bon client
+995;08/03/1968;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;3;Voiture ou autre;1;Pas de credit/credit rembourse;1;Pas de compte courant;Compte cheque inconnu;Car (new);2390;12;0;Aucun;Bon client
+996;24/03/1987;Femme;Non qualifie;4 a 7 ans;Proprietaire;4;Bien immobilier;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Mobilier /equipements;1736;12;0;;Bon client
+997;06/09/1978;Homme;Tres qualifie/independants;1-4 ans;Proprietaire;4;Accord de construction;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Car (used);3857;30;0;;Bon client
+998;12/05/1980;Homme;Qualifie/fonctionnaire;>=7 ans;Proprietaire;4;Voiture ou autre;0;Pas de credit/credit rembourse;1;Pas de compte courant;< 100 EUR;Radio/Television;804;12;0;;Bon client
+999;30/01/1995;Homme;Qualifie/fonctionnaire;1-4 ans;Logement gratuit;4;Inconnu/Pas de propriete;1;Pas de credit/credit rembourse;1;< 0EUR;< 100 EUR;Radio/Television;1845;45;0;;Mauvais client
+1000;30/08/1991;Homme;Qualifie/fonctionnaire;Sans emploi;Proprietaire;4;Voiture ou autre;0;Compte critique / Autres credits (autre banque);1;0-200 EUR;100-500 EUR;Car (used);4576;45;0;Aucun;Bon client
