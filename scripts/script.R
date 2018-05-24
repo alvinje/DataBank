@@ -48,6 +48,8 @@ reg.model2 = step(reg.model,direction="both")
 
 glm_predictions <- predict(reg.model2, newdata = echan.test, type = "response")
 
+
+#Test des predictions avec un echantillon de test
 echan.test$pred_good <- as.factor(ifelse(glm_predictions > 0.5,1,0))
 
 matrice <- table(echan.test$Typologie_client, echan.test$pred_good)
