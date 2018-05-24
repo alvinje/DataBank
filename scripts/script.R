@@ -31,7 +31,7 @@ summary(filteredCsv)
 boxplot(filteredCsv$Montant_credit)
 
 # Create test and apprentissage vars
-set.seed(1) # Pour que l'on ait tous les m�mes �chantillons
+set.seed(1) # Pour que l'on ait tous les m�mes �chantillons
 
 n.app=2/3*nrow(filteredCsv)
 
@@ -43,13 +43,25 @@ echan.app = filteredCsv[ind.app,]
 
 echan.test = filteredCsv[-ind.app,]
 
-# cr�ation du modele
+# cr�ation du modele
 reg.model3 = step(echan.app,direction="both")
 
 # A verifier:
 # bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
 # bug à la lecture -> verifier si aucunes données se sont glissées en trop
 
-# - supprimer les données corrrompues ou abérentes boxplot
+
 # - créer les models
+
+set.seed(1) # Pour que l’on ait tous les mêmes échantillons
+
+n.app=2/3*nrow(filteredCsv)
+
+n.test=1/3*nrow(filteredCsv)
+
+ind.app = sample(1:nrow(filteredCsv),size=n.app,replace=FALSE)
+
+echan.app = filteredCsv[ind.app,]
+
+echan.test = filteredCsv[-ind.app,]
 
