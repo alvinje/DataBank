@@ -17,14 +17,14 @@ filteredCsv$age <- as.integer(difftime(now, filteredCsv$Date_naissance, unit="we
 
 # Convert data quali to quanti
 filteredCsv$Nb_credit_existants <- as.integer(filteredCsv$Nb_credit_existants)
-filteredCsv$Garants <- as.integer(filteredCsv$Garants)
+filteredCsv$Garants <- as.factor(filteredCsv$Garants)
+filteredCsv$Duree_Residence <- as.integer(filteredCsv$Duree_Residence)
 
 # Update csv data
 filteredCsv <- droplevels(filteredCsv)
 filteredCsv$Id <- NULL
 filteredCsv$Date_naissance <- NULL
 filteredCsv$Sexe <- NULL
-filteredCsv$Id <- NULL
 
 View(filteredCsv)
 summary(filteredCsv)
@@ -44,7 +44,9 @@ echan.app = filteredCsv[ind.app,]
 echan.test = filteredCsv[-ind.app,]
 
 # cr�ation du modele
-reg.model3 = step(echan.app,direction="both")
+reg.model <- glm(formula = Typologie_client ~ . , family = binomial, data = echan.app)
+reg.model
+reg.model2 = step(reg.model,direction="both")
 
 # A verifier:
 # bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
