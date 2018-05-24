@@ -12,6 +12,9 @@ View(filteredCsv)
 filteredCsv <- droplevels(filteredCsv)
 filteredCsv$Id <- NULL
 
+# Remove absurd data Montant_credit
+filteredCsv = filteredCsv[!filteredCsv$Montant_credit %in% boxplot(filteredCsv$Montant_credit,range=2)$out,]
+
 # calcul de l'age
 filteredCsv$Date_naissance <- as.Date(filteredCsv$Date_naissance, format="%d/%m/%Y")
 now <- Sys.Date()
@@ -19,9 +22,6 @@ filteredCsv$age <- as.integer(difftime(now, filteredCsv$Date_naissance, unit="we
 
 summary(filteredCsv)
 boxplot(filteredCsv$Montant_credit)
-
-# Remove absurd data Montant_credit
-filteredCsv = filteredCsv[!filteredCsv$Montant_credit %in% boxplot(filteredCsv$Montant_credit,range=2)$out,]
 
 
 
