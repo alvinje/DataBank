@@ -1,6 +1,5 @@
 # Projet Data
 # Groupe Kévin - Jérémie - Rémi
-setwd("D:/logiciel/RStudio/save/DataBank/data")
 install.packages("lubridate")
 csv <- read.csv("banking_credit.csv", T, sep=';')
 is.data.frame(csv)
@@ -24,7 +23,6 @@ filteredCsv$Duree_Residence <- as.integer(filteredCsv$Duree_Residence)
 filteredCsv <- droplevels(filteredCsv)
 filteredCsv$Id <- NULL
 filteredCsv$Date_naissance <- NULL
-filteredCsv$Sexe <- NULL
 
 View(filteredCsv)
 summary(filteredCsv)
@@ -46,35 +44,19 @@ echan.test = filteredCsv[-ind.app,]
 # cr�ation du modele 
 reg.model <- glm(formula = Typologie_client ~ . , family = binomial, data = echan.app)
 
-
 reg.model2 = step(reg.model,direction="both")
 
 glm_predictions <- predict(reg.model2, newdata = echan.test, type = "response")
 
 echan.test$pred_good <- as.factor(ifelse(glm_predictions > 0.5,1,0))
 
-table(echan.test$pred_good, echan.test$Typologie_client)
+matrice <- table(echan.test$Typologie_client, echan.test$pred_good)
 
-#taux
+#taux d'erreur 
 
-(187+51)/(187+52+51+27)
+(matrice[2]+matrice[3])/sum(table(echan.test$Typologie_client, echan.test$pred_good))
 
 # A verifier:
 # bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
 # bug à la lecture -> verifier si aucunes données se sont glissées en trop
-
-
-# - créer les models
-
-set.seed(1) # Pour que l’on ait tous les mêmes échantillons
-
-n.app=2/3*nrow(filteredCsv)
-
-n.test=1/3*nrow(filteredCsv)
-
-ind.app = sample(1:nrow(filteredCsv),size=n.app,replace=FALSE)
-
-echan.app = filteredCsv[ind.app,]
-
-echan.test = filteredCsv[-ind.app,]
 
