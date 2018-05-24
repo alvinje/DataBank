@@ -43,10 +43,21 @@ echan.app = filteredCsv[ind.app,]
 
 echan.test = filteredCsv[-ind.app,]
 
-# cr�ation du modele
+# cr�ation du modele 
 reg.model <- glm(formula = Typologie_client ~ . , family = binomial, data = echan.app)
-reg.model
+
+
 reg.model2 = step(reg.model,direction="both")
+
+glm_predictions <- predict(reg.model2, newdata = echan.test, type = "response")
+
+echan.test$pred_good <- as.factor(ifelse(glm_predictions > 0.5,1,0))
+
+table(echan.test$pred_good, echan.test$Typologie_client)
+
+#taux
+
+(187+51)/(187+52+51+27)
 
 # A verifier:
 # bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
