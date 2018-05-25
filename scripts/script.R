@@ -1,6 +1,5 @@
 # Projet Data
 # Groupe Kévin - Jérémie - Rémi
-install.packages("lubridate")
 csv <- read.csv("banking_credit.csv", T, sep=';')
 is.data.frame(csv)
 filteredCsv <- csv[csv$Typologie_client != "",]
@@ -55,8 +54,4 @@ matrice <- table(echan.test$Typologie_client, echan.test$pred_good)
 #taux d'erreur 
 
 (matrice[2]+matrice[3])/sum(table(echan.test$Typologie_client, echan.test$pred_good))
-
-# A verifier:
-# bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
-# bug à la lecture -> verifier si aucunes données se sont glissées en trop
 
