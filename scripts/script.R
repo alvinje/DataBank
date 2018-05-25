@@ -1,6 +1,10 @@
 # Projet Data
 # Groupe Kévin - Jérémie - Rémi
 install.packages("lubridate")
+install.packages("rpart.plot")
+install.packages("rpart")
+library("rpart")
+library("rpart.plot")
 csv <- read.csv("banking_credit.csv", T, sep=';')
 is.data.frame(csv)
 filteredCsv <- csv[csv$Typologie_client != "",]
@@ -58,7 +62,15 @@ matrice <- table(echan.test$Typologie_client, echan.test$pred_good)
 
 (matrice[2]+matrice[3])/sum(table(echan.test$Typologie_client, echan.test$pred_good))
 
+#creation d'arbre
+arbre <- rpart(reg.model2, data=echan.test, cp=0.031)
+plotcp(arbre)
+rpart.plot(arbre)
+
+
 # A verifier:
 # bon nb de ligne, de collones, var bien typées (numeric, qualitatives)
 # bug à la lecture -> verifier si aucunes données se sont glissées en trop
+
+
 
